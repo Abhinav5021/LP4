@@ -8,7 +8,7 @@ class Main {
 
         public Node(int x) {
             data = x;
-            left = null; 
+            left = null;
             right = null;
         }
     }
